@@ -1,0 +1,96 @@
+2022/11/27
+blackhost.xyz
+
+L1
+k5=vm[69:s_b}]}0
+Ctrl A
+Ctrl U
+
+L2
+=h7003n*z^cu(6q.
+Ctrl U
+
+L3
+Tk.on/ce!2rHSEgj
+Ctrl U
+Ctrl F: <i>
+
+L4
+43{nm'-p78rem[t}
+go L5
+
+L5 
+null
+Ctrl U
+
+L6
+type:
+text/javascript
+Ctrl U
+
+L7
+^(%b36rbf9gsu0qf
+Ctrl U
+
+L8
+adhmpty26^)%,;è°
+Ctrl U
+javascipt
+document.write(password);
+
+L9
+{6cK!h^z@2*)H3sA
+Exposure 
+Gamma Correction(?)
+
+L10
+cdt=vlu1qncl4:,:
+photoshop document
+layers
+
+L11
+.b%+z'tbj-)^tf*u
+zsteg
+
+L12
+!y%}_"v*"fk%6?gd
+stegoveritas
+/home/kali/.local/bin
+
+L13
+tv=.2-3+*d0w+$:7
+binary to ascii
+
+L14
+6?w1l+.|*x1%_y!0
+hexadecimal to ascii
+
+L15
+({|;i_d6:e6yj(+]
+base64 to ascii
+
+L16
+4POSO0U7XNVS7E1K
+morse
+
+L17
+password
+hash
+
+L18
+5*8,"f48)_dvzj8L
+fn F12
+POST
+(Firefox: edit and resend; Chrome: ?)
+
+L19
+blackhost.xyz
+URL
+
+L20
+223.136.138.209
+IP address
+
+L21
+' or '1'='1
+SQL Injection authority bypass
